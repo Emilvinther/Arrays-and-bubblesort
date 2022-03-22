@@ -26,6 +26,9 @@ for (int i = 0; i < arr.Length; i++)
    
 }
 
+Array.Reverse (arr);
+
+
 for (int i = 0; i < arr.Length; i++)
 {
     Console.WriteLine(arr[i]);
